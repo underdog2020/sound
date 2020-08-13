@@ -1,3 +1,5 @@
+#coding:utf-8     
+
 import os
 import tornado.ioloop
 import tornado.web
@@ -11,8 +13,8 @@ settings = {
 
 class IndexHandler(tornado.web.RequestHandler):
     def get(self):
-        items = ["Leo_c_t", "Tom"]
-        self.render("index.html", title="Sound Like Hot", name=items[0])
+        items = [u"for Sleep && Study", u"Study"]
+        self.render("index.html", title="Listen the Sound", name=items[0])
 
 # route
 application = tornado.web.Application([
