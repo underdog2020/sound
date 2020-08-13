@@ -1,15 +1,14 @@
-## Welcome to GitHub Pages
+## 自用白噪音
 
-You can use the [editor on GitHub](https://github.com/underdog2020/sound/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+白噪音，各种雨声、风声、火声、火车声、水车声、咖啡馆人声等
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 建立
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+08/13/2020建立，看到Allan在圈里说需要个雨声，发现自己听的白噪音，仔细听有点儿电磁杂音，上rainymood上面听，那个雨声好，但文件非常大，达到17MB
+今天下午这儿忽然黑云压城，暴雨倾盆，还是来个声势大的雨声吧
 
 ```markdown
-Syntax highlighted code block
+用了十多分钟收集雨声
 
 # Header 1
 ## Header 2
@@ -21,17 +20,3 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/underdog2020/sound/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
